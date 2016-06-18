@@ -21,3 +21,6 @@ Reproduce with TestPassword.xlsm
 
 Both of the TestPassword.xlsm and TestPasswordWorkBook.xlsm are almost empty, only have a user form. 
 Their password is 123456. you can open it if needed.
+
+The above issue also can be reproduced if the TestPassword.xlam and TestDnaPassword.xll is 
+installed as addin and then use the same steps.
